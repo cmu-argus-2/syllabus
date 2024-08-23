@@ -1,1 +1,2 @@
 # syllabus
+Course Syllabus
